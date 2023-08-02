@@ -1,4 +1,4 @@
-## بسم الله والصلاة والسلام على رسول الله اما بعد
+## بسم الله والصلاة والسلام على رسول الله اما بعد : 
 
 # Function Documentation: Creating and Adding HTML Elements
 
@@ -22,7 +22,7 @@ let objectCreatHtml = new Object({
         // Example: objectCreatHtml.funCr('div', 'h2', 'Welcome');
     }
 });
-و السلام على
+
 ```
 
 ```javascript
